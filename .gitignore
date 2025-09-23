@@ -1,3 +1,7 @@
+.DS_Store
+.atom/
+.idea/
+
 # Bundler cache
 .bundle
 vendor
@@ -6,7 +10,7 @@ Gemfile.lock
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
-_site
+
 
 # RubyGems
 *.gem
