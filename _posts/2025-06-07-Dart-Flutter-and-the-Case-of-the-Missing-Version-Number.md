@@ -243,12 +243,12 @@ This is especially useful in SDKs like ours, where clients might install the pac
 
 Just when I thought the case was closed — literally — a little plot twist came along.
 
-After publishing the shiny new `dart_flutter_version` package, I couldn’t help myself and dropped a message in that same old GitHub PR thread.
+After publishing the shiny new `dart_flutter_version` package, I couldn’t help myself and dropped a [message](https://github.com/flutter/flutter/pull/140783#issuecomment-2568022091) in that same old GitHub PR thread.
 I included a link to the package and a bit of context, just for closure, really.
 
 And then… something unexpected happened 😏
 
-Within a month, the thread was reopened.
+Within a month, the thread was <b>reopened</b>.
 A few months later — boom 💥 — the PR was merged (May 21).
 That long-awaited static variable? It’s finally becoming a reality.
 
