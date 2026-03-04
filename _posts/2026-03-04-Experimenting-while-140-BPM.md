@@ -2,7 +2,7 @@
 title: Experimenting while 140 BPM
 date: 2026-03-04 08:08:08 +0100
 categories: [Sport, Fun]
-tags: [Code]
+tags: [Life]
 media_subpath: /assets/media/2026-03-04/
 image:
   path: main.jpg
