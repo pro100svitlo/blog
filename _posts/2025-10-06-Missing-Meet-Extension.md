@@ -80,7 +80,7 @@ No more mercy for nonsense during the two hours of `“5-minute”` calls.
 
 ![The kid with fist](/kid_with_fist.jpg)
 
-The only downside is that if you use this button too often, it will lose its appeal and relevance. Your teammates might delete extension... and all the fun will be gone. FOREVER!
+The only downside is that if you use this button too often, it will lose its appeal and relevance. Your teammates might delete the extension... and all the fun will be gone. FOREVER!
 
 So ...
 
@@ -89,7 +89,7 @@ So ...
 
 ## Epilogue
 
-Our life is too serious. Sometimes we need to do not only smart things that will change this world for a better place to live (sure 😅), but we also need something fun and stupid. 
+Our life is too serious. Sometimes we need to do not only smart things that will make this world a better place to live in (sure 😅), but we also need something fun and stupid. 
 
 Sad to admit, but after all, we’re still quite primitive monkeys who smile when someone slips on a banana.
 
@@ -100,7 +100,7 @@ No reason.
 
 Here are some links
 - [Chrome extension](https://chromewebstore.google.com/detail/meet-bullshit-button/nchjiejngckjgghifhnchjnljgjbmpii)
-  - install it and use wisely ‼️
+  - install it and use it wisely ‼️
   - rate it ⭐️
 - [GitHub repo](https://github.com/pro100svitlo/meet-bullshit-button/) 
   - rate it ⭐️
